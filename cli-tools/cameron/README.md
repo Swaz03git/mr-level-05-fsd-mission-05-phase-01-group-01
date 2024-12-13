@@ -17,7 +17,7 @@ project-root/
 ├── docker-compose.yml                  # Docker configuration for MongoDB
 ├── mongo-init.js                       # Initialization script for MongoDB (user, database, collection setup)
 ├── seed.js                             # CLI tool for seeding auction data
-├── ../datasets/auction_items.json      # Sample data for seeding
+├── ../../datasets/auction_items.json   # Sample data for seeding
 ├── .env                                # Environment variables configuration
 ├── .gitignore                          # Git ignore file
 └── package.json                        # Project metadata and dependencies
