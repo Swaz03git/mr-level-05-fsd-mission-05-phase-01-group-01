@@ -2,6 +2,8 @@
 
 A Node.js command-line utility for seeding auction items data into a MongoDB collection.
 
+- ChatGPT 4o - [Conversation to create this CLI tool](https://chatgpt.com/share/675cc88b-c900-800d-89c7-2b853101666a)
+
 # MongoDB Auction Seeder Documentation
 
 This documentation provides an overview of the project structure, setup instructions, and usage guidelines for the CLI tool that seeds sample auction data into a MongoDB instance.
