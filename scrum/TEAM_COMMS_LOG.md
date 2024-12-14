@@ -17,6 +17,8 @@
         - (3) Christopher Ryan
         - (4) Swaroop Chandrashekar
 
+![image](https://github.com/user-attachments/assets/89cef44b-66c6-49c6-bf46-a362d9464f0f)
+
 - Identified these tasks as shared tasks
   - [Task 01] Setup JIRA
   - [Task 02] Daily Standup
@@ -30,6 +32,8 @@
 
 - Agreed to put shared tasks in backlog for the Scrum Tasks Epic
 - Agreed to put individual tasks in backlog for each Developer's Epic
+
+![image](https://github.com/user-attachments/assets/f12d67d3-e503-4fe5-abda-afe4f4c88e87)
 
 - Agreed to push all phase-on tasks into sprint 01 starting Mon 16, Dec
 
