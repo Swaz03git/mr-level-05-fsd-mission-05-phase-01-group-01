@@ -4,7 +4,7 @@
 
 ## Daily Standup Meeting - Notes
 
-[Daily Standup Meetin Log](DAILY_STANDUP_LOG.md)
+[Daily Standup Meeting Log](DAILY_STANDUP_LOG.md)
 
 ---
 
