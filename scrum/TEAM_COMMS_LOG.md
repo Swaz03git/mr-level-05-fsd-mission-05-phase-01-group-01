@@ -44,6 +44,9 @@
 - Proposed Plan for [Task 03][CM] - Recomend these choices
 
 ### [Agile Values](https://resources.scrumalliance.org/Article/key-values-principles-agile-manifesto)...
+
+![image](https://github.com/user-attachments/assets/43c45bf5-3b27-41e7-b410-9972a8598fb0)
+
 - ***Favour - Individuals and Interactions over Processes and Tools***
   - Evidence -
     - Favour Interactions - A shared GitHub repository [Team Repo](https://github.com/Astrotope/mr-level-05-fsd-mission-05-phase-01-group-01)
@@ -65,6 +68,9 @@
         - TDD Test Runs (failing, and passing), TDD todo code, TDD test code
 
 ### [Agile Practice](https://www.ntaskmanager.com/blog/agile-best-practices/)...
+
+![image](https://github.com/user-attachments/assets/6d7b5a7f-4e42-40b4-ac59-08660a94610a)
+
 - ***Creating Product Backlog and Product Vision Together***
   - Evidence - 
     - Screen capture of our JIRA Scrum Backlog, before we put it into sprints.
@@ -73,6 +79,9 @@
       - Agreeing to put those tasks into sprint one/two (phase one/two).
 
 ### [Design Practice](https://www.innovationtraining.org/steps-to-design-thinking/)...
+
+![image](https://github.com/user-attachments/assets/cdbccaff-a0c5-45f8-b47c-2c4ce059d962)
+
 - ***Prototype*** or
   - Evidence - 
     - TDD - Evolve prototype code to pass test/s.
@@ -82,21 +91,16 @@
     - TDD Test Code
     - TDD Test Runs
     - TDD Todo's
-
 - Discussion on [Task 03]
-
   - Christopher Ryan
     - 
     - 
-
   - Swaroop Chandrashekar
     - 
     - 
   - Cameron McEwing
     - 
     - 
-
 - Action Items
-
 
 ---
