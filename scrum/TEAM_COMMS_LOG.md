@@ -71,12 +71,23 @@
 
 ![image](https://github.com/user-attachments/assets/6d7b5a7f-4e42-40b4-ac59-08660a94610a)
 
-- ***Creating Product Backlog and Product Vision Together***
+- ***Creating Product Backlog and Product Vision Together*** or
   - Evidence - 
     - Screen capture of our JIRA Scrum Backlog, before we put it into sprints.
     - Minuted notes on our agreement on 
       - Agreeing on backlog tasks, 
       - Agreeing to put those tasks into sprint one/two (phase one/two).
+- ***Setting Communications Guidelines for Teams***
+  - Evidence -
+    - Communication Plan
+      - Communicate through MS Teams - Group
+      - Have Daily Standup Meeting
+      - Keep Minutes of Daily Standup Meetings in Shared GitHub Repo.
+      - Have Sprint Planning Meetings
+        - Agree on Backlog
+        - Agree on what goes into Sprint
+      - Keep a record of key meetings and decisions
+        - Team Communications Log [TEAM_COMMS_LOG.md](TEAM_COMMS_LOG.md) 
 
 ### [Design Practice](https://www.innovationtraining.org/steps-to-design-thinking/)...
 
