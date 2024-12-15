@@ -1,6 +1,6 @@
 ---
 
-## Agile Values and Practices Journal  
+## Agile Values/Mindsets and Practices Journal  
 ### Mission Ready - Advanced Developer - Level 05 - Mission 05
 ### **Journal Goal:** Reflect on how we use Agile Values and Practices within our team.
 
