@@ -14,8 +14,8 @@
   - [SC] 
   - [SC] 
   - [CM] Setup JIRA, and a [Team GitHub repository](https://github.com/Astrotope/mr-level-05-fsd-mission-05-phase-01-group-01/tree/main).
-  - [CM] Setup log for Daily Standups, and thes Journals [Design Thinking Journal](journals/DESIGN_THINKING_JOURNAL.md), [Agile Minsets & Practices Journal](journals/AGILE_MINDSETS_PRACTICES_JOURNAL.md), and [Ethics LensesJournal](journals/ETHICS_LENSES_JOURNAL.md).
-  - [CM] Generated a mock [auction items dataset](datasets/auction-data.json), for seeding the database using Chat GPT 4o.
+  - [CM] Setup log for Daily Standups, and thes Journals [Design Thinking Journal](../journals/DESIGN_THINKING_JOURNAL.md), [Agile Minsets & Practices Journal](../journals/AGILE_MINDSETS_PRACTICES_JOURNAL.md), and [Ethics LensesJournal](../journals/ETHICS_LENSES_JOURNAL.md).
+  - [CM] Generated a mock [auction items dataset](../datasets/auction-data.json), for seeding the database using Chat GPT 4o.
   - [CM] Used TDD to test and evolve a CLI tool for seeding the MongoDB auction database. [Auction Seeder CLI Tool](https://github.com/Astrotope/mr-level-05-fsd-mission-05-phase-01-auction-search/tree/main/cli-tool)
   - [CR] 
   - [CR] 
