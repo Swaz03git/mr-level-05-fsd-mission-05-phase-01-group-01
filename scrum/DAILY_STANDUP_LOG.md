@@ -13,9 +13,9 @@
 #### **End Time** 08:40PM
 
 - **Yesterday/Weekend:**  [What I completed?]
-  - [SC] 
-  - [SC] 
-  - [SC] 
+  - [SC] Installed MongoDB and set up the local environment for development.
+  - [SC]  Watched YouTube training material to understand MongoDB usage and integration techniques.
+  - [SC]  Updated Jira tasks to reflect the progress made during the weekend.
   - [CM] Setup JIRA, and a [Team GitHub repository](https://github.com/Astrotope/mr-level-05-fsd-mission-05-phase-01-group-01/tree/main).
   - [CM] Setup log for Daily Standups, and thes Journals [Design Thinking Journal](../journals/DESIGN_THINKING_JOURNAL.md), [Agile Minsets & Practices Journal](../journals/AGILE_MINDSETS_PRACTICES_JOURNAL.md), and [Ethics LensesJournal](../journals/ETHICS_LENSES_JOURNAL.md).
   - [CM] Generated a mock [auction items dataset](../datasets/auction-data.json), for seeding the database using Chat GPT 4o.
@@ -25,9 +25,11 @@
   - [CR] 
 
 - **Today:**  [What I'm working on today?]
-  - [SC] 
-  - [SC] 
-  - [SC] 
+  - [SC] Completed Task 4: Designed and implemented API endpoints for retrieving auction data.
+  - [SC] Completed Task 5: Integrated the MongoDB database with the backend server to handle dynamic data storage and retrieval.
+  - [SC] Completed Task 6: Wrote and executed unit and integration tests for all implemented API endpoints to validate functionality.
+  - [SC] Used Test-Driven Development (TDD) to iteratively test and refine the APIs, ensuring reliability and scalability.
+  - [SC] Successfully tested APIs; all endpoints are now functional and meet the defined requirements.
   - [CM] Enhance dataset for testing search functionality. Add multiples items in categories that are semantically similar. Will probably use ChatGPT for this.
   - [CM] Journaling in [Design Thinking Journal](../journals/DESIGN_THINKING_JOURNAL.md), [Agile Minsets & Practices Journal](../journals/AGILE_MINDSETS_PRACTICES_JOURNAL.md), and [Ethics LensesJournal](../journals/ETHICS_LENSES_JOURNAL.md).
   - [CM] Research search ranking algorithms, with care to search relevance to end-user, and issues around search bias. [ChatGPT Conversation](https://chatgpt.com/share/675f43d1-0df0-800d-99f3-3b099833ea8e). This conversation covered search ranking algorithms including TF-IDF, BM25, and Semantic Serach using Vector Embeddings (GenAI) and Cosine Similarity. To start with I'm going to build an MVP with basic 'in' string search, and build out from there.
