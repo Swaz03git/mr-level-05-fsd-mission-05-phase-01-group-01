@@ -7,10 +7,10 @@
 ---
 
 ### Standup Notes  
-### **Date:** Mon 16, Dec, 2024
+#### **Date:** Mon 16, Dec, 2024
 
-### **Start Time** 08:33PM
-### **End Time** 08:40PM
+#### **Start Time** 08:33PM
+#### **End Time** 08:40PM
 
 - **Yesterday/Weekend:**  [What I completed?]
   - [SC] 
@@ -54,7 +54,10 @@
 ---
 
 ### Standup Notes  
-### **Date:** Tue 17, Dec, 2024
+#### **Date:** Tue 17, Dec, 2024
+
+#### **Start Time** 
+#### **End Time** 
 
 - **Yesterday:**  [What I completed?]
   - [SC] 
@@ -96,7 +99,10 @@
 ---
 
 ### Standup Notes  
-### **Date:** Wed 18, Dec, 2024
+#### **Date:** Wed 18, Dec, 2024
+
+#### **Start Time** 
+#### **End Time** 
 
 - **Yesterday:**  [What I completed?]
   - [SC] 
@@ -138,7 +144,10 @@
 ---
 
 ### Standup Notes  
-### **Date:** Thu 19, Dec, 2024
+#### **Date:** Thu 19, Dec, 2024
+
+#### **Start Time** 
+#### **End Time** 
 
 - **Yesterday:**  [What I completed?]
   - [SC] 
