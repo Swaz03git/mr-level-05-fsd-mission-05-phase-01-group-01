@@ -2,6 +2,29 @@
 
 ---
 
+## Agree on 2 Agile Values, 1 Agile Practice and 1 Design Thinking Practice
+
+- Agile Values
+  - Working Software over Comprehensive Documention.
+  - Individuals and Interactions over Processes and Tools.
+- Agile Practice
+  - Creating Product Backlog and Product Vision Together
+- Design Thinking Practice
+  - Prototype/Test (TDD)
+- Industry Standard Practice
+ - 
+ 
+![image](https://github.com/user-attachments/assets/b063b627-5d38-4ab0-a69c-2bf1bad075b9)
+
+---
+
+![image](https://github.com/user-attachments/assets/3653e245-73f4-469d-bb3c-beaf02aa2795)
+
+
+
+     
+---
+
 ## Daily Standup Meeting - Notes
 
 [Daily Standup Meeting Log](DAILY_STANDUP_LOG.md)
