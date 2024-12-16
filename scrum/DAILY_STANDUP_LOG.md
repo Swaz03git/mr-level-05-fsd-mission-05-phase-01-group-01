@@ -9,6 +9,9 @@
 ### Standup Notes  
 ### **Date:** Mon 16, Dec, 2024
 
+### **Start Time** 08:33PM
+### **End Time** 08:40PM
+
 - **Yesterday/Weekend:**  [What I completed?]
   - [SC] 
   - [SC] 
@@ -17,7 +20,7 @@
   - [CM] Setup log for Daily Standups, and thes Journals [Design Thinking Journal](../journals/DESIGN_THINKING_JOURNAL.md), [Agile Minsets & Practices Journal](../journals/AGILE_MINDSETS_PRACTICES_JOURNAL.md), and [Ethics LensesJournal](../journals/ETHICS_LENSES_JOURNAL.md).
   - [CM] Generated a mock [auction items dataset](../datasets/auction-data.json), for seeding the database using Chat GPT 4o.
   - [CM] Used TDD to test and evolve a CLI tool for seeding the MongoDB auction database. [Auction Seeder CLI Tool - Separate Repo.](https://github.com/Astrotope/mr-level-05-fsd-mission-05-phase-01-auction-search/tree/main/cli-tool)
-  - [CR] 
+  - [CR] Looking through the Agile - Values, Practices, and Design Thinking.
   - [CR] 
   - [CR] 
 
@@ -29,14 +32,14 @@
   - [CM] Journaling in [Design Thinking Journal](../journals/DESIGN_THINKING_JOURNAL.md), [Agile Minsets & Practices Journal](../journals/AGILE_MINDSETS_PRACTICES_JOURNAL.md), and [Ethics LensesJournal](../journals/ETHICS_LENSES_JOURNAL.md).
   - [CM] Research search ranking algorithms, with care to search relevance to end-user, and issues around search bias. [ChatGPT Conversation](https://chatgpt.com/share/675f43d1-0df0-800d-99f3-3b099833ea8e). This conversation covered search ranking algorithms including TF-IDF, BM25, and Semantic Serach using Vector Embeddings (GenAI) and Cosine Similarity. To start with I'm going to build an MVP with basic 'in' string search, and build out from there.
   - [CM] Use TDD development to begin work on Auction Search API/s.
-  - [CR] 
+  - [CR] Building CLI tool to interact with Mongo DB.
   - [CR] 
   - [CR] 
 
 - **Blockers:**  [What is blocking me?] 
   - [SC] 
   - [CM] None. Other than I need someone to clone my CLI tool repository, and test it on their system. [Auction Seeder CLI Tool - Separate Repo.](https://github.com/Astrotope/mr-level-05-fsd-mission-05-phase-01-auction-search/tree/main/cli-tool)
-  - [CR] 
+  - [CR] None.
 
 - **Updates/Notes**: 
   - [SC] 
