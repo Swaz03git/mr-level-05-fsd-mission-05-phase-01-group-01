@@ -56,40 +56,40 @@
 ### Standup Notes  
 #### **Date:** Tue 17, Dec, 2024
 
-#### **Start Time** 
-#### **End Time** 
+#### **Start Time** 08:13PM
+#### **End Time** 08:23PM
 
 - **Yesterday:**  [What I completed?]
   - [SC] 
   - [SC] 
   - [SC] 
   - [CM] 
-  - [CM] 
-  - [CM] 
-  - [CR] 
-  - [CR] 
+  - [CM] Look at docker-compose.yml for Milvus Vector Database
+  - [CM] Decluttering docker-desktop - images volumes containers.
+  - [CR] Reading through the marking rubric. 
+  - [CR] Went through online MongoDB tutorial.
   - [CR] 
 
 - **Today:**  [What I'm working on today?]
   - [SC] 
   - [SC] 
   - [SC] 
+  - [CM] Have a look at Semantic Search with Milvus or another vector DB.
   - [CM] 
   - [CM] 
-  - [CM] 
-  - [CR] 
+  - [CR] Finish MongoDB and seed auction files - CLI Tool
   - [CR] 
   - [CR] 
 
 - **Blockers:**  [What is blocking me?] 
   - [SC] 
-  - [CM] 
-  - [CR] 
+  - [CM] None.
+  - [CR] None.
 
 - **Updates/Notes**: 
   - [SC] 
   - [CM] 
-  - [CR] 
+  - [CR] Cannot attend standup on Wed, as meeting with L4.
 
 - **Action Items**: 
   - [SC] 
