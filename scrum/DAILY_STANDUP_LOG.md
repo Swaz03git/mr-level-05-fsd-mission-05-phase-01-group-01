@@ -101,16 +101,16 @@
 ### Standup Notes  
 #### **Date:** Wed 18, Dec, 2024
 
-#### **Start Time** 
-#### **End Time** 
+#### **Start Time** 8:30PM
+#### **End Time** 8:40PM
 
 - **Yesterday:**  [What I completed?]
   - [SC] 
   - [SC] 
   - [SC] 
-  - [CM] 
-  - [CM] 
-  - [CM] 
+  - [CM] Looked at Milvus vector DB, and vector embedding with Google text-embedding-001 model
+  - [CM] Tried to get Milvus DB to start in Docker. Some issue with current build. Product didn't feel stable/reliable
+  - [CM] Also had to have a closer look at how the text-embedding-001 model returns it's vectors
   - [CR] 
   - [CR] 
   - [CR] 
@@ -119,21 +119,24 @@
   - [SC] 
   - [SC] 
   - [SC] 
-  - [CM] 
-  - [CM] 
-  - [CM] 
+  - [CM] Change to QDrant for my vector DB. Excellent choice, very easy to work. Also moved to text-embedding-004 model.
+  - [CM] Created docker-compose for QDrant, and scripts to setup a collection in qdrant.
+  - [CM] Created a script to create vector embeddings for each auction item's text, and load it into QDrant along with MongoDB id
+  - [CM] Created dataset for testing semantic search, with semantic variations of bike, and wood/wooden auction items.
+  - [CM] Semantic search up and runnnig. YEAH! Created some extra query parameters for no. of items returned, and search mode.
+  - [CM] Updated tests, and made sure they were passing. Updated documentation. Pushed code to GitHub.
   - [CR] 
   - [CR] 
   - [CR] 
 
 - **Blockers:**  [What is blocking me?] 
   - [SC] 
-  - [CM] 
+  - [CM] None.
   - [CR] 
 
 - **Updates/Notes**: 
   - [SC] 
-  - [CM] 
+  - [CM] My updated dataset is available if you want to use it.
   - [CR] 
 
 - **Action Items**: 
