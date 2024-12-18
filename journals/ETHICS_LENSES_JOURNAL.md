@@ -67,7 +67,7 @@ By considering these lenses throughout the development lifecycle, teams can crea
 ---
 
 ### Journal Entries 
-### **Date:** Mon 16, Dec, 2024
+### **Date:** Tue 17, Dec, 2024
 
   - [CM] 
   - [CR] 
@@ -76,16 +76,18 @@ By considering these lenses throughout the development lifecycle, teams can crea
 ---
 
 ### Journal Entries 
-### **Date:** Mon 16, Dec, 2024
+### **Date:** Wed 18, Dec, 2024
 
-  - [CM] 
+  - [CM][Utilitarian Lens] [Maximise User Benifit] Semantic search can help to maximise the benifit for end-users, as it allows them to find auction items that are similar in a way that textual search cannot. For example a traditional search wouldn't find tricycle or three wheeler, when the user searches for trike, where is a semantic search does. Some of this utility may be lost due to latency of the search, if the vector embeddings is not designed to high concurrency.
+  - [CM] [Rights Lens] [Privacy & Data Security] If you use an API to perform text embeddings using a third party. Then data privacy and security should be considered. In the case of auction listings where the listings are public, and there is tacit agreement by the user to make them public, by listing the auction. So this should not be a concern. I guess the only thing you may need to be careful with, is that you do not leak date outside of auction listing into the 3rd party API, through programming errors.
+  - [CM] [Justice Lens] Does the search algorithm favour individuals or groups? Is there bias in the search, that unfairly favours certain listings or individuals. There is no seller data in the auction items records, so there is no way to favour a seller based on an auction items details. There can be some bias in the embedding model, so this should be considered.
   - [CR] 
   - [SC] 
 
 ---
 
 ### Journal Entries 
-### **Date:** Mon 16, Dec, 2024
+### **Date:** Thu 1, Dec, 2024
 
   - [CM] 
   - [CR] 
