@@ -5,18 +5,29 @@
 ## Agree on 2 Agile Values, 1 Agile Practice and 1 Design Thinking Practice
 
 - Agile Values
-  - Working Software over Comprehensive Documention.
-  - Individuals and Interactions over Processes and Tools.
+  - Working Software over Comprehensive Documention. - TDD as documentation. AI Generated documentation. 
+  - Individuals and Interactions over Processes and Tools. - JIRA, MS Teams, Daily Standups, Sharing our Ideas. 
 - Agile Practice
   - Creating Product Backlog and Product Vision Together
+    - Agreed together on Tasks/Stories in product backlog, and agreed to move them into sprint 01.
 - Design Thinking Practice
   - Prototype/Test (TDD)
-- Industry Standard Practice
- - 
+- Industry Standard Practice (use at least 2 that are relevant to case study challenge, and to professional pathway [developer])
+  - Unit Testing [tick]
+  - Document DB [tick]
+  - Git [tick]
+  - (AI Programming [CM])
+  - (Container Technologies [CM])
+- Daily Standup Evidence
+  - DAILY_STANDUP_LOG.md
+ 
+### Agile Values
  
 ![image](https://github.com/user-attachments/assets/b063b627-5d38-4ab0-a69c-2bf1bad075b9)
 
 ---
+
+### Our Product Backlog
 
 ![image](https://github.com/user-attachments/assets/3653e245-73f4-469d-bb3c-beaf02aa2795)
 
